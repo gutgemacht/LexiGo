@@ -1,4 +1,4 @@
-# 🎓 LexiGo *in Development*
+# 🎓 LexiGo - is already online and in active Development
 
 **A self-hosted, game-like language-learning app (PWA) where code owns the learning and AI only assists.**
 
