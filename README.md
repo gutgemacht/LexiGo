@@ -1,4 +1,4 @@
-# 🎓 LexiGo
+# 🎓 LexiGo *in Development*
 
 **A self-hosted, game-like language-learning app (PWA) where code owns the learning and AI only assists.**
 
